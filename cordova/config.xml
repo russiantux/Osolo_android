@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.osolo" version="0.1.0">
+  <name>Osolo</name>
+  <description>
+    Source Server Control
+  </description>
+  <author email="vguy.lazarev@gmail.com">
+    russiantux
+  </author>
+</widget>
